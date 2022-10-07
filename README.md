@@ -2,16 +2,11 @@
 
 ## git bisect
 git bisect sirve para detectar bugs
-hola alejandro
 
-hola alejandoooooooo
-
-
-## bob esponja
+```
+git biscct
+```
 
 
-
-
-## oliver
-
-## benji
+## git checkout
+sirve para cambiar de rama
