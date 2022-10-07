@@ -1,10 +1,5 @@
 # Git Reference
 
-## git bisect
-git bisect sirve para detectar bugs
-hola alejandro
+## git cherry-pick
 
-hola alejandoooooooo
-
-
-## yeyeey
+sirve para mezclar commits diversos
