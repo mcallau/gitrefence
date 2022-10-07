@@ -7,23 +7,4 @@ hola alejandro
 hola alejandoooooooo
 
 
-## yeyeey
-rfvgerfrefreg
-
-sdfsad
-f
-fdsa
-sdfa
-dfs
-
-dsfsdfsddsfdsfsd
-
-===========================================
-
-olidcefs
-wpfjew
-fpjowerf
-
-CAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOSCAMBIOS
-
-CAMBIOSCAMBIOSCAMBIOSCAMBIOS
+## bob esponja
