@@ -1,12 +1,22 @@
-# Git Reference
+# git remote add
 
-## git bisect
-git bisect sirve para detectar bugs
-
+El comando `git remote` te permite crear, ver y eliminar conexiones con otros repositorios.
 ```
-git biscct
+git remote add origin https://github.com/user/repo
 ```
 
+# git pull
 
-## git checkout
-sirve para cambiar de rama
+El comando `git pull` se emplea para extraer y descargar contenido desde un repositorio remoto.
+
+```
+git pull
+```
+
+# git push
+
+El comando `git push` se emplea para cargar contenido del repositorio local a un repositorio remoto.
+
+```
+git push
+```
