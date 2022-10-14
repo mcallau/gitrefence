@@ -36,19 +36,22 @@ git clone [url]
 
 ## git checkout
 sirve para cambiar de rama
-
+```
+git checkout [branch-name]
+```
 
 ## git tag
 sirve para etiquetar commits
 ```
-git tag branch-name
+git tag [branch-name]
 ```
 
 ## git switch
 sirve para cambiar la rama en la que estas (new checkout)
 ```
-git switch branch-name
+git switch [branch-name]
 ```
+
 ## git merge
 sirve para juntar ramas
 ```
