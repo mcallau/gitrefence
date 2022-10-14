@@ -18,3 +18,4 @@ sirve para cambiar de rama
 
 ## git tag
 sirve para etiquetar commits
+
