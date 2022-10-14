@@ -1,3 +1,4 @@
+
 # git config (username,email)
 Obtenga y configure el repositorio o las opciones globales
 
@@ -21,12 +22,21 @@ git commit -am "commit message"
 ## git merge
 sirve para mezclar commits diversos
 
-## git bisect
-git bisect sirve para detectar bugs
+# git remote add
+
+El comando `git remote` te permite crear, ver y eliminar conexiones con otros repositorios.
+```
+git remote add origin https://github.com/user/repo
+```
+
+# git pull
+
+El comando `git pull` se emplea para extraer y descargar contenido desde un repositorio remoto.
 
 ```
-git biscct
+git pull
 ```
+
 
 ## git clone
 sirve para clonar repositorios
@@ -59,4 +69,12 @@ git merge branch-name
 sirve para recopilar uno a uno los cambios confirmados en una rama, y reaplicarlos sobre otra.
 ```
 git rebase branch-name
+```
+
+# git push
+
+El comando `git push` se emplea para cargar contenido del repositorio local a un repositorio remoto.
+
+```
+git push
 ```
