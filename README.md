@@ -1,35 +1,34 @@
 
-# git config (username,email)
+## git config (username,email)
 Obtenga y configure el repositorio o las opciones globales
 
 ```
 git config --global user.name "mcallau"
 git config --global user.email "manuel@gmail.com"
 ```
-# git branch
+## git branch
 Lista,crea y elimina ramas.
 
 ```
 git branch branch-name
 ```
 
-# git commit
+## git commit
 Registrar cambios en el repositorio
 ```
 git commit -am "commit message"
 ```
 
-## git merge
-sirve para mezclar commits diversos
 
-# git remote add
+
+## git remote add
 
 El comando `git remote` te permite crear, ver y eliminar conexiones con otros repositorios.
 ```
 git remote add origin https://github.com/user/repo
 ```
 
-# git pull
+## git pull
 
 El comando `git pull` se emplea para extraer y descargar contenido desde un repositorio remoto.
 
@@ -74,7 +73,7 @@ sirve para recopilar uno a uno los cambios confirmados en una rama, y reaplicarl
 git rebase branch-name
 ```
 
-# git push
+## git push
 
 El comando `git push` se emplea para cargar contenido del repositorio local a un repositorio remoto.
 
